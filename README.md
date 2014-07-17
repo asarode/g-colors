@@ -1,7 +1,7 @@
 g-colors
 ========
 
-You can find a list of all Google material design colors here: http://www.google.com/design/spec/style/color.html
+Here's a [list of all the Google material design colors.](http://www.google.com/design/spec/style/color.html) You can download the g-colors partial to use them without having to copy + paste from the site all the time! There's a bunch of them, so you should be able to create a nice palette with them.
 
 
 ##Usage
